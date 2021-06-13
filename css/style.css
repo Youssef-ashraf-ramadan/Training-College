@@ -19,7 +19,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #6C5CF5;
+   background-color: #7f7d96;
     width: 100%;
     height: 80px;
     z-index: 1000;
@@ -85,7 +85,7 @@
     margin: 0 5%;
 }
 .home .col2 .form{
-    background-color: #6C5CF5;
+  background-color: rgba(106, 155, 106, 0.6);
     min-width: 320px;
     min-height: 450px;
     border-radius: 17px;
